@@ -11,7 +11,7 @@ const socialLinks = [
   {
     label: 'Instagram',
     icon: Camera,
-    href: 'https://instagram.com/gameheaven',
+    href: 'https://instagram.com/game_heaven_bst',
   },
   {
     label: 'Phone',
@@ -143,8 +143,7 @@ export default function Footer() {
           </p>
           <p className="text-xs text-text-muted">
             Crafted with{' '}
-            <span className="text-accent-light">&hearts;</span> in
-            Basti
+            <span className="text-accent-light">&hearts;</span> by <strong>Kushagra Srivastava</strong>
           </p>
         </div>
       </div>
