@@ -143,7 +143,7 @@ export default function Footer() {
           </p>
           <p className="text-xs text-text-muted">
             Crafted with{' '}
-            <span className="text-accent-light">&hearts;</span> by <strong>Kushagra Srivastava</strong>
+            <span className="text-accent-light">&hearts;</span> by <strong>Kushagra Srivastava.</strong>
           </p>
         </div>
       </div>
